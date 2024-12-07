@@ -27,6 +27,8 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 
 - **Junior Crop Advisor and Precision Agriculture Analyst**  
   Insolo Agricultural Management, August 2004 - June 2010
+  
+------------------------------------------------------------------------
 
 ## Kaggle Competitions
 <p align="left">
@@ -40,6 +42,7 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 
 
 ### [Home Credit GitHub Code](https://github.com/kleytonrps/Home_Credit_Project/blob/main/Home_Credit_Kleyton.qmd) 
+
 
 **Business problem and project objective**
 
