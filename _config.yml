@@ -1,9 +1,7 @@
 title: Kleyton Polzonoff
 logo: profile/profile.png
 theme: jekyll-theme-minimal
-sass:
-  style: compressed
 
-# Adicionando o link para o CSS personalizado
-stylesheets:
-  - "/assets/css/custom-styles.css"
+
+
+
