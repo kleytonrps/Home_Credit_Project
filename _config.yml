@@ -1,34 +1,22 @@
 title: Kleyton Polzonoff
 logo: profile/profile.png
 theme: jekyll-theme-minimal
-sass:
-  style: compressed
 
-# Adicionando o link para o CSS personalizado
+# Custom CSS
 stylesheets:
   - "/assets/css/custom-styles.css"
 
-# Basic Site Settings
+# Site Settings
 locale: "en-US"
-description: "personal description"
-url: https://kleyton-polzonoff.github.io # Atualize com seu link se necessário
-baseurl: "" # Deixe vazio para a raiz do site
-repository: "kleytonrps/Home_Credit_Project" # Repositório no GitHub, caso necessário
+description: "Personal description"
+url: https://kleyton-polzonoff.github.io
+baseurl: ""
 
-# Author information
+# Author Information
 author:
-  avatar: "profile/profile.png"  # Atualize o caminho da imagem do avatar
   name: "Kleyton Polzonoff"
-  bio: "Descrição pessoal"
-  email: "seu_email@dominio.com"  # Adicione seu e-mail, se necessário
-
-# Comments, analytics e SEO desnecessários para a sua solicitação
-comments: false
-analytics:
-  provider: "false"
-
-# Removendo as redes sociais e links desnecessários
-social: {}
+  bio: "Personal description"
+  avatar: "profile/profile.png"
 
 # Plugins
 plugins:
@@ -36,11 +24,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Output settings
+# Output Settings
 permalink: "/:categories/:title/"
 timezone: Etc/UTC
 
-# Miscellaneous settings
+# Exclude unnecessary files
 exclude:
   - ".git"
   - ".github"
