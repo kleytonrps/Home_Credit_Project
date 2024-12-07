@@ -3,30 +3,44 @@
 Welcome to my portfolio, where I share my learning journey in business analytics. These projects show my growing skills in data analysis, predictive modeling, and making decisions based on data.
 
 ------------------------------------------------------------------------
-### Education
+## Education
 
-- **Master of Science in Business Analytics**  
-  University of Utah, Salt Lake City, UT, United States  
+<details>
+  <summary><strong>Master of Science in Business Analytics</strong></summary>
+  University of Utah, Salt Lake City, UT, United States
+</details>
 
-- **MBA in Business and Entrepreneurship**  
-  PUC RS, Porto Alegre, Brazil  
+<details>
+  <summary><strong>MBA in Business and Entrepreneurship</strong></summary>
+  PUC RS, Porto Alegre, Brazil
+</details>
 
-- **Specialist in Soil Management**  
-  Esalq USP, Piracicaba, Brazil  
+<details>
+  <summary><strong>Specialist in Soil Management</strong></summary>
+  Esalq USP, Piracicaba, Brazil
+</details>
 
-- **Bachelor's Degree in Agronomy**  
-  UEL, Londrina, Brazil  
+<details>
+  <summary><strong>Bachelor's Degree in Agronomy</strong></summary>
+  UEL, Londrina, Brazil
+</details>
 
-### Work Experience
+## Work Experience
 
-- **Data Entry Specialist and Assistant Buyer**  
-  The University of Utah Campus Store, April 2023-present 
+<details>
+  <summary><strong>Data Entry Specialist and Assistant Buyer</strong></summary>
+  The University of Utah Campus Store, April 2023-present
+</details>
 
-- **Founder/CEO/Senior Crop Advisor**  
-  Apta Agribusiness, July 2010 - July 2023  
+<details>
+  <summary><strong>Founder/CEO/Senior Crop Advisor</strong></summary>
+  Apta Agribusiness, July 2010 - July 2023
+</details>
 
-- **Junior Crop Advisor and Precision Agriculture Analyst**  
+<details>
+  <summary><strong>Junior Crop Advisor and Precision Agriculture Analyst</strong></summary>
   Insolo Agricultural Management, August 2004 - June 2010
+</details>
   
 ------------------------------------------------------------------------
 
