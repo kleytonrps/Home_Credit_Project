@@ -7,3 +7,43 @@ sass:
 # Adicionando o link para o CSS personalizado
 stylesheets:
   - "/assets/css/custom-styles.css"
+
+# Basic Site Settings
+locale: "en-US"
+description: "personal description"
+url: https://kleyton-polzonoff.github.io # Atualize com seu link se necessário
+baseurl: "" # Deixe vazio para a raiz do site
+repository: "kleytonrps/Home_Credit_Project" # Repositório no GitHub, caso necessário
+
+# Author information
+author:
+  avatar: "profile/profile.png"  # Atualize o caminho da imagem do avatar
+  name: "Kleyton Polzonoff"
+  bio: "Descrição pessoal"
+  email: "seu_email@dominio.com"  # Adicione seu e-mail, se necessário
+
+# Comments, analytics e SEO desnecessários para a sua solicitação
+comments: false
+analytics:
+  provider: "false"
+
+# Removendo as redes sociais e links desnecessários
+social: {}
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Output settings
+permalink: "/:categories/:title/"
+timezone: Etc/UTC
+
+# Miscellaneous settings
+exclude:
+  - ".git"
+  - ".github"
+  - "_site"
+  - "node_modules"
+  - "README.md"
