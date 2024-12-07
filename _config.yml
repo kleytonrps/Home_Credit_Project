@@ -8,22 +8,5 @@ sass:
 stylesheets:
   - "/assets/css/custom-styles.css"
 
-# Configurações básicas do site
-locale: "en-US"
-description: "Personal website of Kleyton Polzonoff"
-url: "https://kleyton-polzonoff.github.io"
-baseurl: ""
-
-# Informações do autor
-author:
-  name: "Kleyton Polzonoff"
-  bio: "Environmental Consultant and Data Scientist"
-  avatar: "profile/profile.png"
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
 
 
