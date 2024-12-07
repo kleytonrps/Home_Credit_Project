@@ -40,6 +40,7 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 <h2>Home Credit Competition</h2>
 
 [Quarto Markdown code](https://github.com/kleytonrps/Home_Credit_Project/blob/main/Home_Credit_Kleyton.qmd)
+
 [Home Credit PDF document](https://github.com/kleytonrps/Home_Credit_Project/blob/main/pdf_html_files/Home_Credit_pdf_no_code.pdf)
 
 
