@@ -24,11 +24,11 @@ Welcome to my portfolio, where I share my learning journey in business analytics
   </ul>
 
 </details>
-<br><br>
+<br>
   
 ------------------------------------------------------------------------
 
-<br><br>
+<br>
 
 ## 1. Kaggle Competitions
 <p align="left">
