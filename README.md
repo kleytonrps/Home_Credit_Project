@@ -29,15 +29,13 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 
 ## Kaggle Competitions
 
-<!-- Kaggle logo image -->
+<!-- Kaggle logo image and text aligned side by side -->
 <p align="left">
    <a href="https://www.kaggle.com/competitions/home-credit-default-risk">
-      <img src="images/kaggle_logo.png" alt="Kaggle Logo" style="width: 12%; max-width: 1000px; display: inline-block;" />
+      <img src="images/kaggle_logo.png" alt="Kaggle Logo" style="width: 12%; max-width: 1000px; display: inline-block; vertical-align: middle;" />
    </a>
+   <span style="font-size: 18px; vertical-align: middle; margin-left: 10px;">Home Credit Competition</span>
 </p>
-
-<!-- Text: Home Credit Competition -->
-<h2>Home Credit Competition</h2>
 
 [Quarto Markdown code](https://github.com/kleytonrps/Home_Credit_Project/blob/main/Home_Credit_Kleyton.qmd)
 
