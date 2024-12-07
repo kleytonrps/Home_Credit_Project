@@ -1,0 +1,8 @@
+header {
+  background-image: url('/profile github.jpg');
+  background-size: contain;  /* Keeps the entire image visible */
+  background-position: top center;  /* Aligns the image at the top */
+  height: 300px;
+  background-color: #f4f4f4;  /* A soft light background color for contrast */
+  border-bottom: 2px solid #ccc;  /* Adds a simple border to separate the header */
+}
