@@ -1,8 +1,9 @@
 title: Kleyton Polzonoff
-logo:  profile/profile.png
-theme: jekyll-theme-cayman
+logo: profile/profile.png
+theme: jekyll-theme-slate
 sass:
   style: compressed
 
-exclude:
-  - assets/css
+# Adicionando o link para o CSS personalizado
+stylesheets:
+  - "/assets/css/custom-styles.css"
