@@ -1,21 +1,23 @@
 title: Kleyton Polzonoff
 logo: profile/profile.png
 theme: jekyll-theme-minimal
+sass:
+  style: compressed
 
-# Custom CSS
+# Adicionando o link para o CSS personalizado
 stylesheets:
   - "/assets/css/custom-styles.css"
 
-# Site Settings
+# Configurações básicas do site
 locale: "en-US"
-description: "Personal description"
-url: https://kleyton-polzonoff.github.io
+description: "Personal website of Kleyton Polzonoff"
+url: "https://kleyton-polzonoff.github.io"
 baseurl: ""
 
-# Author Information
+# Informações do autor
 author:
   name: "Kleyton Polzonoff"
-  bio: "Personal description"
+  bio: "Environmental Consultant and Data Scientist"
   avatar: "profile/profile.png"
 
 # Plugins
@@ -24,14 +26,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Output Settings
-permalink: "/:categories/:title/"
-timezone: Etc/UTC
 
-# Exclude unnecessary files
-exclude:
-  - ".git"
-  - ".github"
-  - "_site"
-  - "node_modules"
-  - "README.md"
