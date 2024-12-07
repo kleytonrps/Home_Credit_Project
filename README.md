@@ -2,9 +2,6 @@
 
 Welcome to my portfolio, where I share my learning journey in business analytics. These projects show my growing skills in data analysis, predictive modeling, and making decisions based on data.
 
-------------------------------------------------------------------------
-## Education
-
 <details>
   <summary><strong>Education</strong></summary>
   
@@ -16,8 +13,6 @@ Welcome to my portfolio, where I share my learning journey in business analytics
   </ul>
 
 </details>
-
-## Work Experience
 
 <details>
   <summary><strong>Work Experience</strong></summary>
