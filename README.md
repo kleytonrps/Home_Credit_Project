@@ -6,43 +6,31 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 ## Education
 
 <details>
-  <summary><strong>Master of Science in Business Analytics</strong></summary>
-  University of Utah, Salt Lake City, UT, United States
-</details>
+  <summary><strong>Education</strong></summary>
+  
+  <ul>
+    <li><strong>Master of Science in Business Analytics</strong> - University of Utah, Salt Lake City, UT, United States</li>
+    <li><strong>MBA in Business and Entrepreneurship</strong> - PUC RS, Porto Alegre, Brazil</li>
+    <li><strong>Specialist in Soil Management</strong> - Esalq USP, Piracicaba, Brazil</li>
+    <li><strong>Bachelor's Degree in Agronomy</strong> - UEL, Londrina, Brazil</li>
+  </ul>
 
-<details>
-  <summary><strong>MBA in Business and Entrepreneurship</strong></summary>
-  PUC RS, Porto Alegre, Brazil
-</details>
-
-<details>
-  <summary><strong>Specialist in Soil Management</strong></summary>
-  Esalq USP, Piracicaba, Brazil
-</details>
-
-<details>
-  <summary><strong>Bachelor's Degree in Agronomy</strong></summary>
-  UEL, Londrina, Brazil
 </details>
 
 ## Work Experience
 
 <details>
-  <summary><strong>Data Entry Specialist and Assistant Buyer</strong></summary>
-  The University of Utah Campus Store, April 2023-present
+  <summary><strong>Work Experience</strong></summary>
+
+  <ul>
+    <li><strong>Data Entry Specialist and Assistant Buyer</strong> - The University of Utah Campus Store, April 2023-present</li>
+    <li><strong>Founder/CEO/Senior Crop Advisor</strong> - Apta Agribusiness, July 2010 - July 2023</li>
+    <li><strong>Junior Crop Advisor and Precision Agriculture Analyst</strong> - Insolo Agricultural Management, August 2004 - June 2010</li>
+  </ul>
+
 </details>
 
-<details>
-  <summary><strong>Founder/CEO/Senior Crop Advisor</strong></summary>
-  Apta Agribusiness, July 2010 - July 2023
-</details>
-
-<details>
-  <summary><strong>Junior Crop Advisor and Precision Agriculture Analyst</strong></summary>
-  Insolo Agricultural Management, August 2004 - June 2010
-</details>
-  
-------------------------------------------------------------------------
+  ------------------------------------------------------------------------
 
 ## Kaggle Competitions
 <p align="left">
