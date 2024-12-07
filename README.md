@@ -25,11 +25,8 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 
 </details>
 <br>
-  
-------------------------------------------------------------------------
-
+<hr>
 <br>
-
 ## 1. Kaggle Competitions
 <p align="left">
    <span style="font-size: 16px; vertical-align: middle; margin-right: 10px;">Home Credit Competition</span>
