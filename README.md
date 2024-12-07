@@ -47,7 +47,7 @@ Home Credit aims to address the challenge of providing secure credit access to u
 The extensive dataset contains information on over 307,000 consumers across 121 variables. It is also highly imbalanced, with only 8% of individuals classified as defaulters, posing significant challenges to both business decision-making and the prediction process. A thorough data exploration revealed issues such as ambiguous variable values, outliers, and missing data, all of which were addressed through appropriate transformations and cleaning steps.
 
 <p align="center">
-   <img src="default%20by%20income.png" alt="Default by Income" width="600" />
+   <img src="https://github.com/kleytonrps/Home_Credit_Project/blob/main/plots/default%20by%20income.png?raw=true" alt="Default by Income" width="600" />
 </p>
 
 Our approach involved one-hot encoding categorical variables and re-balancing the dataset via downsampling, selecting 24,000 defaulters and 48,000 non-defaulters. We also applied Recursive Feature Elimination (RFE) to identify the most relevant variables, enhancing computational efficiency and model performance.
@@ -59,10 +59,13 @@ To further enhance predictions, all models underwent 10-fold cross-validation wi
 **Our Solution**
 
 To assist Home Credit in achieving its goals, we developed an ensemble model that combines four individual models to balance prediction results. Compared to a random classifier, this ensemble model improves the prediction of defaulters from 8% to 38% while maintaining high accuracy in identifying non-defaulters (89% compared to 92% with the random classifier).
-
+<p align="center">
+   <img src="https://github.com/kleytonrps/Home_Credit_Project/blob/main/plots/final_metrics.jpg?raw=true" alt="Final Metrics" width="600" />
+</p>
 Additionally, the models highlighted Home Credit’s reliance on external risk classification data. The analysis revealed that data from external sources 2 and 3 were the most significant. Furthermore, the analysis showed that variables such as credit amount, goods price, years of employment, age, ID publication date, car ownership, last phone change date, and education level played a key role in strengthening the models.
 
 This solution achieved a score of nearly 0.74 in the Kaggle competition, which can be considered a strong performance, approximately 8% lower than the winning solution.
+
 
 
 **Business Value**
