@@ -3,8 +3,8 @@
 Welcome to my portfolio, where I share my learning journey in business analytics. These projects show my growing skills in data analysis, predictive modeling, and making decisions based on data.
 
 ------------------------------------------------------------------------
-### Education
-
+### <button class="collapsible">Education</button>
+<div class="content">
 - **Master of Science in Business Analytics**  
   University of Utah, Salt Lake City, UT, United States  
 
@@ -16,18 +16,20 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 
 - **Bachelor's Degree in Agronomy**  
   UEL, Londrina, Brazil  
+</div>
 
-### Work Experience
-
+### <button class="collapsible">Work Experience</button>
+<div class="content">
 - **Data Entry Specialist and Assistant Buyer**  
-  The University of Utah Campus Store, April 2023-present 
+  The University of Utah Campus Store, April 2023-present  
 
 - **Founder/CEO/Senior Crop Advisor**  
   Apta Agribusiness, July 2010 - July 2023  
 
 - **Junior Crop Advisor and Precision Agriculture Analyst**  
   Insolo Agricultural Management, August 2004 - June 2010
-  
+</div>
+
 ------------------------------------------------------------------------
 
 ## Kaggle Competitions
@@ -40,12 +42,11 @@ Welcome to my portfolio, where I share my learning journey in business analytics
    </a>
 </p>
 
-
 ### [Home Credit GitHub Code](https://github.com/kleytonrps/Home_Credit_Project/blob/main/Home_Credit_Kleyton.qmd) 
-
 
 **Business problem and project objective**
 
 Home Credit aims to address the challenge of providing secure credit access to underserved populations and empowering individuals and businesses. This project focuses on developing a default prediction model using advanced analytics, aligning with Home Credit's goal of promoting financial inclusion while ensuring the company's financial stability.
- 
+
+
 
