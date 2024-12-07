@@ -1,6 +1,6 @@
 title: Kleyton Polzonoff
 logo: profile/profile.png
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 sass:
   style: compressed
 
