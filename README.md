@@ -24,7 +24,8 @@ Welcome to my portfolio, where I share my learning journey in business analytics
   </ul>
 
 </details>
----
+<br><br>
+
   ------------------------------------------------------------------------
 
 ## 1. Kaggle Competitions
@@ -34,7 +35,9 @@ Welcome to my portfolio, where I share my learning journey in business analytics
       <img src="images/kaggle_logo.png" alt="Kaggle Logo" style="width: 18%; max-width: 1000px; display: inline-block; vertical-align: middle;" />
    </a>
 </p>
+
 [Quarto Markdown code](https://github.com/kleytonrps/Home_Credit_Project/blob/main/Home_Credit_Kleyton.qmd)
+
 [Home Credit PDF document](https://github.com/kleytonrps/Home_Credit_Project/blob/main/pdf_html_files/Home_Credit_pdf_no_code.pdf)
 
 **Business problem and project objective**
