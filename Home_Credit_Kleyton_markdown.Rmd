@@ -1,5 +1,5 @@
 ---
-title: "Home Credit markdown"
+title: "Home Credit"
 author: "Kleyton Polzonoff"
 date: today
 format:
