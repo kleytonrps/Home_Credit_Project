@@ -28,7 +28,7 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 <hr>
 
 ## 1. Kaggle Competitions
-<p align="left" style="margin: 0; padding: 0;">
+<p align="left" style="margin: 0; line-height: 1;">
    <span style="font-size: 16px; vertical-align: middle; margin-right: 10px;">Home Credit Competition</span>
    <a href="https://www.kaggle.com/competitions/home-credit-default-risk">
       <img src="images/kaggle_logo.png" alt="Kaggle Logo" style="width: 18%; max-width: 1000px; display: inline-block; vertical-align: middle;" />
