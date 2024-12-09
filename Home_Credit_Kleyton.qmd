@@ -8,7 +8,7 @@ format:
     toc_float: true  # Enable floating TOC with automatic highlighting
     self-contained: true   # HTML only, no folders
     code-tools: true
-    code-fold: TRUE
+    code-fold: false
     code-summary: "Show the code"
 execute:
   echo: true
@@ -2415,7 +2415,8 @@ XGBoost: 0.733
 LightGBM: 0.733
 
 ```{r}
-knitr::include_graphics("Kaggle Kleyton final.jpg")
+# Kaggle Score Image
+knitr::include_graphics("D:/Analytics Projects/Home_Credit_Project/images/Kaggle Kleyton final.jpg")
 ```
 
 
