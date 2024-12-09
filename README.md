@@ -26,18 +26,18 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 </details>
 <br>
 <hr>
-<br>
+
 ## 1. Kaggle Competitions
-<p align="left">
+<p align="left" style="margin: 0; padding: 0;">
    <span style="font-size: 16px; vertical-align: middle; margin-right: 10px;">Home Credit Competition</span>
    <a href="https://www.kaggle.com/competitions/home-credit-default-risk">
       <img src="images/kaggle_logo.png" alt="Kaggle Logo" style="width: 18%; max-width: 1000px; display: inline-block; vertical-align: middle;" />
    </a>
 </p>
 
-[Quarto Markdown code](https://github.com/kleytonrps/Home_Credit_Project/blob/main/Home_Credit_Kleyton.qmd)
+[Home Credit RMarkdown code](https://github.com/kleytonrps/Home_Credit_Project/blob/main/Home_Credit_Kleyton.qmd)
 
-[Home Credit Project PDF](https://github.com/kleytonrps/Home_Credit_Project/blob/main/pdf_html_files/Home_Credit_pdf_code.pdf)
+[Home Credit Project PDF](https://github.com/kleytonrps/Home_Credit_Project/blob/main/pdf%20files/Home_Credit_pdf_code.pdf)
 
 
 **Business problem and project objective**
